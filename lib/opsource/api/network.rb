@@ -32,7 +32,7 @@ module Opsource::API
     end
 
     def natrule_delete(network_id, natrule_id)
-      org_endpoint "/network/#{network_id}/natrule/natrule/#{natrule_id}?delete"
+      org_endpoint "/network/#{network_id}/natrule/#{natrule_id}?delete"
       get
     end
 
