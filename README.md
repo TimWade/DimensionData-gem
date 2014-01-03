@@ -1,6 +1,6 @@
 ## opsource-gem
 
-Inspired and based on https://github.com/udayakiran/opsource but with different semantics.
+Inspired and based on https://github.com/juozasg/opsource-gem but with different semantics and further additions for a fuller API wrpper.
 
 Designed for easy extensibility. See `lib/opsource/api` folder for examples.
 
